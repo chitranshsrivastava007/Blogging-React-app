@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "title": "20 Best Practices for React",
+      "description": "React is one of the most popular techs when talking about JavaScript. Even for some developers, it’s the best. React doesn’t force you how to structure your project. It’s completely up to you to choose how do it. As a result, that makes some developers bring the artistic sense out of them. But, on the other hand… others can make a mess. When working as a team, it’s better to make an understandable structure and code.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-francesco-ungaro-96381.jpg?alt=media&token=a22e0f72-2598-47fb-84c2-141cd6c1ad0c",
+      "createdAt": "2025-04-30T06:46:43.245Z",
+      "category": "Tech News and Updates",
+      "id": 8
+    },
+    {
+      "title": "Tech & Innovation",
+      "description": " Stay updated with the latest in technology, gadgets, apps, and groundbreaking innovations. From AI breakthroughs to smart home tips, we decode complex tech in a way everyone can understand.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-pixabay-256381.jpg?alt=media&token=13389901-c422-47c8-8b87-3213da5c6b54",
+      "createdAt": "2025-04-30T06:48:56.085Z",
+      "category": "Tech News and Updates",
+      "id": 9
+    },
+    {
+      "title": "The Rise of Generative AI: How It's Changing Creativity ",
+      "description": " Explore how tools like ChatGPT and DALL·E are transforming content creation, art, and media with the power of generative artificial intelligence.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-lj-2085831.jpg?alt=media&token=9a340eef-57de-47e1-a063-ac7cc09f8382",
+      "createdAt": "2025-04-30T06:49:43.277Z",
+      "category": "Tech News and Updates",
+      "id": 10
+    },
+    {
+      "title": "Ethical Challenges in AI Development ",
+      "description": "From data privacy to algorithmic bias, delve into the ethical issues that come with developing and deploying AI systems responsibly.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-laura-musikanski-6019019.jpg?alt=media&token=2328ece5-f82a-4450-bcdb-85ef23b97479",
+      "createdAt": "2025-04-30T06:51:18.421Z",
+      "category": "Tech News and Updates",
+      "id": 11
+    },
+    {
+      "title": "How AI Is Reshaping the Future of Work ",
+      "description": "A look at automation, AI assistants, and how roles in industries like healthcare, finance, and customer service are evolving.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-jakub-zerdzicki-17536106.jpg?alt=media&token=83f4ff91-7fb8-4e5a-8f7a-a61b1847faf4",
+      "createdAt": "2025-04-30T06:52:00.629Z",
+      "category": "Tech News and Updates",
+      "id": 12
+    },
+    {
+      "title": "What Is Machine Learning? A Beginner's Guide ",
+      "description": " Break down the basics of machine learning, its key algorithms, and how it's different from traditional programming.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-pixabay-373543.jpg?alt=media&token=8c774277-55a2-4454-a9ea-bff7adeb6dd1",
+      "createdAt": "2025-04-30T06:54:32.477Z",
+      "category": "",
+      "id": 13
+    },
+    {
+      "title": "Tech Trends to Watch: AI, Blockchain, and Beyond in 2025 ",
+      "description": "Stay ahead with a deep dive into emerging technologies that are set to disrupt industries in the near future.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-francesco-ungaro-96381.jpg?alt=media&token=a22e0f72-2598-47fb-84c2-141cd6c1ad0c",
+      "createdAt": "2025-04-30T06:55:27.597Z",
+      "category": "Tech News and Updates",
+      "id": 14
+    },
+    {
+      "title": "Building Your First AI Project: A Simple Guide for Beginners",
+      "description": "Step-by-step guidance for students and enthusiasts to build a basic AI project using Python and open-source libraries like TensorFlow or scikit-learn.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-pixabay-270348.jpg?alt=media&token=ae9dc603-4f47-452b-b186-d8545fda7bbc",
+      "createdAt": "2025-04-30T06:56:16.501Z",
+      "category": "Tech News and Updates",
+      "id": 15
+    },
+    {
+      "title": " AI and Cybersecurity: Smarter Protection or Bigger Threats? ",
+      "description": "Learn how AI is being used to detect cyber threats—and how it's also being used by hackers to create more sophisticated attacks.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tour-base-887ca.appspot.com/o/blogs%2Fpexels-pixabay-256381.jpg?alt=media&token=13389901-c422-47c8-8b87-3213da5c6b54",
+      "createdAt": "2025-04-30T06:58:06.053Z",
+      "category": "",
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tech News and Updates",
+      "description": "Latest news and updates from the tech industry. It covers product launches, acquisitions, major announcements from tech giants, and breakthroughs in various technology sectors"
+    },
+    {
+      "id": 2,
+      "name": "Software Development",
+      "description": "This category caters to software developers and programmers, offering tips, best practices, and tutorials on coding languages, frameworks, development methodologies, and software engineering principles."
+    },
+    {
+      "id": 4,
+      "name": "Tech and Society",
+      "description": "Explores the intersection of technology and society, discussing the social impact of technology. It covers topics like digital divide, tech addiction, online communities, and the influence of social media on society."
+    },
+    {
+      "id": 5,
+      "name": "Artificial Intelligence",
+      "description": "Delves into the world of AI and ML, discussing recent developments, applications, and trends in these fields. It covers topics like natural language processing, computer vision, AI ethics, and the impact of AI on various industries."
+    },
+    {
+      "id": 6,
+      "name": "Gadgets and Reviews",
+      "description": "Focuses on the latest and greatest gadgets and tech products in the market. It includes in-depth reviews, comparisons, and recommendations for smartphones, laptops, smartwatches, VR headsets, cameras, and other electronic devices."
+    },
+    {
+      "id": 7,
+      "name": "Cybersecurity",
+      "description": "Keeping readers informed about digital security risks, cyber threats, data breaches, and ways to protect personal information online. It may also include tips for secure online practices and reviews of security software."
+    },
+    {
+      "id": 8,
+      "name": "Internet of Things (IoT)",
+      "description": "Discusses the interconnection of smart devices and their impact on everyday life. It covers smart home technology, wearable devices, industrial IoT, and potential challenges and opportunities in this growing field."
+    }
+  ]
+}
